@@ -2,7 +2,7 @@
 
 ![Build and Test](https://github.com/lazerwalker/twine-app-builder/actions/workflows/main.yml/badge.svg)
 
-This project takes your existing browser-based game and automatically generates a standalone desktop version for both Windows and macOS.
+This project takes your existing browser-based game and automatically generates a standalone desktop version for both Windows and macOS. 
 
 It's primarily intended to take games made in tools like [Twine](https://twinery.org) (both 1 and 2), [Bitsy](http://www.bitsy.org/), and [PuzzleScript](https://www.puzzlescript.net/) and produce desktop builds suitable for distribution on platforms such as Steam or Itch. But you may find other uses for it as well! It works with any game whose output is HTML/JavaScript/CSS.
 
