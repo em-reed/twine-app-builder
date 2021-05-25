@@ -1,0 +1,320 @@
+name: Quickstart
+resolution:
+  - 800
+  - 600
+assetCounter: 88
+config:
+  loader:
+    background:
+      id: asset45
+      assetType: images
+    loading-bar:
+      id: asset49
+      height: '79'
+      width: '282'
+      'y': '500.8125'
+      x: '494'
+      assetType: spritesheets
+  main:
+    backgroundMusic: lostkingsbladem
+    background:
+      id: asset87
+      assetType: images
+    buttons:
+      - id: asset66
+        sfx: SELECT
+        slot: '0'
+        binding: start
+        height: '80'
+        width: '143'
+        'y': 380.8125
+        x: 333
+        assetType: spritesheets
+  settings:
+    labels:
+      - x: 262
+        'y': 40
+        size: 77
+        text: Settings
+        font: VT323-Regular
+        color: '#FFFFFF'
+      - x: 119
+        'y': 173.8125
+        size: 33
+        text: music volume
+        font: VT323-Regular
+        color: '#FDFBFB'
+      - x: 129
+        'y': 323.8125
+        size: 33
+        text: sfx volume
+        font: VT323-Regular
+        color: '#FFFFFF'
+      - x: 519
+        'y': 323.8125
+        size: '33'
+        text: auto speed
+        font: VT323-Regular
+        color: '#FBF9F9'
+      - x: 521
+        'y': 174.8125
+        size: '33'
+        text: text speed
+        font: VT323-Regular
+        color: '#FFFFFF'
+    buttons:
+      - id: asset77
+        sfx: none
+        slot: '0'
+        binding: return
+        height: '70'
+        width: '163'
+        'y': '506'
+        x: '616'
+        assetType: spritesheets
+    sliders:
+      - id: asset72
+        binding: bgmv
+        height: '49'
+        width: '248'
+        'y': '220'
+        x: '74'
+        assetType: spritesheets
+      - id: asset72
+        binding: sfxv
+        height: '49'
+        width: '248'
+        'y': '370'
+        x: '74'
+        assetType: spritesheets
+      - id: asset72
+        binding: textSpeed
+        height: '49'
+        width: '248'
+        'y': '220'
+        x: '463'
+        assetType: spritesheets
+      - id: asset72
+        binding: autoSpeed
+        height: '49'
+        width: '248'
+        'y': '370'
+        x: '463'
+        assetType: spritesheets
+    background:
+      id: asset45
+      assetType: images
+  hud:
+    inactive: false
+    message-box:
+      id: asset51
+      text-width: '636'
+      offset-y: '89'
+      offset-x: '20'
+      align: left
+      color: '#FFFFFF'
+      font: VT323-Regular
+      size: '30'
+      sfx: none
+      'y': '350'
+      x: '0'
+      assetType: images
+    ctc:
+      id: asset53
+      height: '20'
+      width: '19'
+      'y': 522.8125
+      x: 726
+      assetType: spritesheets
+    choice:
+      id: asset55
+      offset-y: '0'
+      offset-x: '0'
+      align: left
+      chosen-color: '#8C8C8C'
+      color: '#FFFFFF'
+      font: VT323-Regular
+      size: '30'
+      separation: '10'
+      height: '79'
+      width: '459'
+      sfx: SELECT
+      'y': 75.8125
+      x: 180
+      isTextCentered: true
+      isBoxCentered: false
+      assetType: spritesheets
+      sample: 2
+    buttons:
+      - id: asset60
+        sfx: none
+        slot: '0'
+        binding: settings
+        height: '35'
+        width: '118'
+        'y': 566
+        x: 8
+        assetType: spritesheets
+      - id: asset61
+        sfx: none
+        slot: '0'
+        binding: auto
+        height: '35'
+        width: '59'
+        'y': 566
+        x: 671
+        assetType: spritesheets
+      - id: asset62
+        sfx: none
+        slot: '0'
+        binding: skip
+        height: '35'
+        width: '59'
+        'y': 566
+        x: 735
+        assetType: spritesheets
+    name-box:
+      id: asset63
+      offset-y: '0'
+      offset-x: '0'
+      align: left
+      color: '#FFFFFF'
+      font: VT323-Regular
+      size: '30'
+      'y': 357
+      x: '0'
+      isTextCentered: true
+      assetType: images
+  saveload: {}
+assets:
+  images:
+    asset18:
+      name: asset18
+      fileName: saveloadasset18.png
+    asset22:
+      name: asset22
+      fileName: hudasset22.png
+    asset45:
+      name: asset45
+      fileName: loaderasset45.png
+    asset51:
+      name: asset51
+      fileName: hudasset51.png
+    asset63:
+      name: asset63
+      fileName: hudasset63.png
+    asset76:
+      name: asset76
+      fileName: saveloadasset76.png
+    asset78:
+      name: asset78
+      fileName: saveloadasset78.png
+    asset87:
+      name: asset87
+      fileName: mainasset87.png
+  spritesheets:
+    asset23:
+      name: asset23
+      fileName: hudasset23.png
+      w: 41
+      h: 39
+    asset24:
+      name: asset24
+      fileName: hudasset24.png
+      w: 41
+      h: 39
+    asset25:
+      name: asset25
+      fileName: hudasset25.png
+      w: 41
+      h: 39
+    asset26:
+      name: asset26
+      fileName: hudasset26.png
+      w: 41
+      h: 39
+    asset32:
+      name: asset32
+      fileName: hudasset32.png
+      w: 716
+      h: 65
+    asset49:
+      name: asset49
+      fileName: loaderasset49.png
+      w: 282
+      h: 79
+    asset53:
+      name: asset53
+      fileName: hudasset53.png
+      w: 19
+      h: 20
+    asset55:
+      name: asset55
+      fileName: hudasset55.png
+      w: 459
+      h: 79
+    asset60:
+      name: asset60
+      fileName: hudasset60.png
+      w: 118
+      h: 35
+    asset61:
+      name: asset61
+      fileName: hudasset61.png
+      w: 59
+      h: 35
+    asset62:
+      name: asset62
+      fileName: hudasset62.png
+      w: 59
+      h: 35
+    asset65:
+      name: asset65
+      fileName: mainasset65.png
+      w: 199
+      h: 83
+    asset66:
+      name: asset66
+      fileName: mainasset66.png
+      w: 143
+      h: 80
+    asset67:
+      name: asset67
+      fileName: mainasset67.png
+      w: 199
+      h: 75
+    asset72:
+      name: asset72
+      fileName: settingsasset72.png
+      w: 248
+      h: 49
+    asset77:
+      name: asset77
+      fileName: saveloadasset77.png
+      w: 163
+      h: 70
+    asset81:
+      name: asset81
+      fileName: saveloadasset81.png
+      w: 103
+      h: 49
+    asset84:
+      name: asset84
+      fileName: saveloadasset84.png
+      w: 103
+      h: 44
+  fonts:
+    VT323-Regular:
+      fileName: generalVT323-Regular.ttf
+      name: VT323-Regular
+  audio:
+    SELECT:
+      fileName: generalSELECT.ogg
+      name: SELECT
+      type: sfx
+    lostkingsbladem:
+      fileName: lostkingsbladem.mp3
+      name: lostkingsbladem
+      type: music
+madeWithRenJSBuilder: true
+assetsPath: assets/gui/

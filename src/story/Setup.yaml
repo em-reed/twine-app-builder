@@ -1,0 +1,89 @@
+ backgrounds:
+  BLACK: assets/backgrounds/BLACK.png
+  FINALE1: assets/backgrounds/FINALE1.png
+  FINALE2: assets/backgrounds/FINALE2.png
+  BIRD: assets/backgrounds/BIRD.png
+  COMPUTER: assets/backgrounds/COMPUTER.png
+  NIGHTCLUB: assets/backgrounds/NIGHTCLUB.png
+  BED: assets/backgrounds/BED.png
+  BEDVAPE: assets/backgrounds/BEDVAPE.png
+  LIBRARY: assets/backgrounds/LIBRARY.png
+  HALLWAY: assets/backgrounds/HALLWAY.png
+  DEBRIS: assets/backgrounds/DEBRIS.png
+  BOARDING: assets/backgrounds/BOARDING.png
+  CAFE: assets/backgrounds/CAFE.png
+  CAFEKEYS: assets/backgrounds/CAFEKEYS.png
+  SHIPINTERIOR: assets/backgrounds/SHIPINTERIOR.png
+  TWOSHIPS: assets/backgrounds/TWOSHIPS.png
+  PINNED: assets/backgrounds/PINNED.png
+  PINNEDEYES: assets/backgrounds/PINNEDEYES.png
+  HOSPITAL: assets/backgrounds/HOSPITALS.png
+  white: assets/ambient/white.png
+
+ characters:
+   virtu:
+    displayName: Virtu
+    speechColour: "#ffffff"
+    voice: SPEAK
+   agata:
+    displayName: Agata
+    speechColour: "#ffffff"
+    voice: SPEAK
+   simon:
+    displayName: Simon
+    speechColour: "#ffffff"
+    voice: SPEAK
+   supervisor:
+    displayName: Supervisor
+    speechColour: "#ffffff"
+    voice: SPEAK
+   captain:
+    displayName: Captain
+    speechColour: "#ffffff"
+    voice: SPEAK
+   kris:
+    displayName: Kris
+    speechColour: "#ffffff"
+    voice: SPEAK
+   computer:
+    displayName: Computer
+    speechColour: "#ffffff"
+    voice: SPEAK
+   reporter:
+    displayName: Reporter
+    speechColour: "#ffffff"
+    voice: SPEAK
+
+ music:
+  LOSTKINGSBLADE: assets/audio/lostkingsblade.mp3
+  SHIELDOFWANT: assets/audio/shieldofwant.mp3
+  EPILOGUE: assets/audio/epilogue.mp3
+  FOUNTAINHEADOFLIGHT: assets/audio/fountainheadoflight.mp3
+  SONGOFTHEEND: assets/audio/songoftheend.mp3
+  SEYMOURHOVERCRAFT: assets/audio/seymourhovercraft.mp3
+  HIGHWAY: assets/audio/HIGHWAY.mp3
+  CAFESOUND: assets/audio/RESTAURANT.mp3
+  SHIPSOUND: assets/audio/SHIPINTERIOR.mp3
+  PLASTICBAMBOO: assets/audio/plasticbamboo.mp3
+  BLACKOUT: assets/audio/BLACKOUT.mp3
+ sfx: 
+  SHOT: assets/audio/SHOT.ogg
+  SWITCH: assets/audio/SWITCH.ogg
+  ALERT: assets/audio/ALERT.ogg
+  BEEP: assets/audio/BEEP.ogg
+  MAIL: assets/audio/MAIL.ogg
+  SELECTION: assets/audio/SELECT.ogg
+  DOOR: assets/audio/DOOR.ogg
+  VAPE: assets/audio/VAPE.ogg
+  FOOT1: assets/audio/FOOT1.ogg
+  FOOT2: assets/audio/FOOT2.ogg
+  SLAM: assets/audio/SLAM.ogg
+  SPEAK: assets/audio/boing.ogg
+ extra:
+  image:
+    redflash: assets/ambient/red glow.png
+    white: assets/ambient/white.png
+    PINNED2: assets/backgrounds/PINNED2.png
+      
+ cgs:
+  PINNED2: assets/backgrounds/PINNED2.png

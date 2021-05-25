@@ -1,0 +1,1044 @@
+start:
+  - wait: 1000
+  - show FINALE1: WITH FADE
+  - play BLACKOUT: LOOPED
+  - wait: 1000
+  - virtu says: What a way for it to end. We were almost at Jupiter.
+  - virtu says: In fact, I'm sure we were past the line delineating INTERPOL's Outer Space Enforcement Zone.
+  - virtu says: I have to say, I had always found being chased down and cornered by a woman thrilling.
+  - virtu says: But in this case, one so willing to draw her gun on me, to actually fucking kill me...
+  - virtu says: I'm not so sure. 
+  - show FINALE2: WITH FADE
+  - virtu says: Shit!
+  - effect FLASHIMAGE:
+    screenShake: true
+    sfx: SHOT
+    image: white
+  - virtu says: What she shot at me was some awful, barbed spear type thing.
+  - virtu says: It cut cleanly through my suit, pinning my wrist to the side of the junk ship. 
+  - virtu says: The kind of weapon only a cop could come up with.
+  - virtu says: Pain scattered my mind like a smashed window pane, and my monitoring device gave a polite little beep--
+  - effect FLASHIMAGE:
+    screenShake: false
+    sfx: ALERT
+    image: redflash
+  - effect FLASHIMAGE:
+    image: redflash
+  - effect FLASHIMAGE:
+    image: redflash
+  - computer says: (color:#FF0000)MICROCLIMATE LEAK DETECTED. UNABLE TO AUTO-PATCH. RETURN TO SHIP IMMEDIATELY.(end)
+  - virtu says: Gee, thanks.
+  - virtu says: In my peripheral vision, I could see my tiny Heartbreaker pistol, just a stun-gun really, floating off into the dark.
+  - virtu says: I obviously couldn't talk to her like this.
+  - virtu says: Even if we were sitting across from each other at a little table in a quiet cafe, I would never be sure she could hear me. 
+  - virtu says: I pulled my free arm inside the suit.
+  - virtu says: Ran my hand along my own skin, for what, I suddenly realized, would be the last time.    
+  - virtu says: All of the mysteries me and Kris contemplated,
+  - virtu says: The discussions of the nature of life, consciousness, fusion, division...
+  - virtu says: In that short time we spent together...
+  - virtu says: In a few moments, I'd know for sure. 
+  - virtu says: I reached up to the improvised appliance fused with my neck...
+  - virtu says: And flipped the dead drop switch.
+  - stop bgm: WITH CUT
+  - show BLACK: WITH CUT
+  - play SWITCH:
+  - wait: 4000
+  - play HIGHWAY: LOOPED
+  - show BIRD: WITH FADE
+  - wait: 4000
+  - virtu says: I should have taken it as a bad augury.
+  - virtu says: The sad little dead bird.   
+  - virtu says: It was nested gently in the dry glass, probably having run headlong into the tall glass structure that extended into the sky. 
+  - virtu says: It made a beautiful, hollow note, then fell, I assumed.
+  - virtu says: The ground outside the Plano space elevator was covered in a layer of unnatural, thinly-manicured grass,
+  - virtu says: which had gone completely brown and crisp as soon as the grounds no longer had to look futuristic. 
+  - virtu says: When space shipping and travel to The Ring had become as banal as any Amazon warehouse.
+  - virtu says: I suppose they had stopped paying people to come around and hold garden hoses over the grass for hours 3 days a week. 
+  - virtu says: I wondered what jobs they had now. 
+  - show BIRD: WITH CUT
+  - wait: 4000
+  - virtu says: This single songbird was the last creature besides myself for what felt like miles around, after the bus had pulled away. 
+  - virtu says: I hefted my duffel bag on my shoulder. 
+  - virtu says: So many perverse things in this world, splatting from their conception directly into the stillbirth of Capital, the future already sold off.
+  - virtu says: I had a job now. I had managed to bullshit my way onto the flesh circuit.
+  - virtu says: It was a crude name that had become trendy and then formalized,
+  - virtu says: describing live-in placement based work on The Ring, the circular belt of luxury apartments orbiting Earth.
+  - virtu says: The wealthy had dreamed of escaping to the stars to leave us behind on this unglamorous and increasingly chaotic depleted world,
+  - virtu says: but they hadn't quite been able to hit escape velocity.
+  - virtu says: Luxury living now took place in an artificial ring around the planet, serviced by an increasing number of space elevators.
+  - virtu says: Bad taste and the favor of the tech industry-- 
+  - virtu says: (so, bad taste)
+  - virtu says: --had made it so that it was easy to invisibilize and automate the human contact out of supplying food and necessities.
+  - virtu says: Yet in that sterile paradise, there was something missing. 
+  - virtu says: The transgressive vitality of youth, sex, culture, art... 
+  - virtu says: So they made the implicit promise of art and culture into an explicit one.
+  - virtu says: In short, one of the pathways for importation was to be a min-wage interesting party guest.
+  - stop bgm: WITH FADE
+  - show BLACK: WITH FADE
+  - play DOOR:
+  - wait: 2000
+  - virtu says: I walked through the sliding door.
+  - virtu says: I would be perfectly on time for my cargo capsule. 
+  - virtu says: Still, I thought to myself, maybe the bird hadn't been dead. Just unconscious. 
+  - virtu says: I hadn't touched it. Hadn't gotten close.
+  - virtu says: Maybe as soon as I passed through the door, it righted itself, came awake again,
+  - virtu says: and flew away.
+  - show BLACK: WITH FADE
+  - wait: 4000
+  - show COMPUTER: WITH FADE
+  - play SEYMOURHOVERCRAFT: LOOPED
+  - wait: 1000
+  - agata says: The first time I really saw you was probably not the first time I saw you.
+  - agata says: I see a lot of people, but so many that sometimes it feels impossible to recognize anyone.
+  - agata says: No one looks weird to me, or distinctive to me. I feel like I've seen every way a person can be.
+  - agata says: The main part of my job is not even to just watch security footage. There's way too much of that.
+  - agata says: I process the footage flagged as suspicious by the international crime database neural network.
+  - agata says: And of course, 99% of it is bullshit. 
+  - agata says: I see people, all over the world, performing totally innocent actions, read as violence...
+  - agata says: Possessing some unfortunate physical likeness to the most deranged serial killers, corporate spies and terrorists...
+  - agata says: I click “not suspicious,” the computer asks me “are you sure?” and still, undoubtedly, stores that bit of data away somewhere.
+  - agata says: I'm good at my job, according to the statistics, which are of course completely disconnected from actually preventing or punishing criminal acts. 
+  - agata says: But sometimes I think we'd have about as much luck in that business just wandering around, or “patrolling,” as in a less tech-enlightened age.
+  - show COMPUTER: WITH CUT
+  - wait: 2000
+  - agata says: After the rupture, which, in purely financial terms,
+  - agata says: the terms I've come to find are the ones that really matter here,
+  - agata says: had been calculated to be the greatest crime of human history, 
+  - agata says: a small group of us with good KPIs on the surveillance team were brought in for a manhunt operation.
+  - show COMPUTER: WITH CUT
+  - wait: 2000
+  - agata says: Simon Lanstrom's own testimony upon his emergence from a medically-induced coma,
+  - agata says: fingered Virtu Cavna, a flesh circuit worker, for assault, IP theft, mass property destruction,
+  - agata says: and deliberately bringing about the homicide and/or significant bodily injury of, at that point, around 6,000 Ring residents. 
+  - agata says: She had vanished in the aftermath, and neither a body nor subsequent pings of electronic registry information had been recovered.
+  - agata says: Neither, Lanstrom alleged, had any parts of the secret prototype android Virtu had attempted to steal.
+  - show COMPUTER: WITH CUT
+  - wait: 4000 
+  - agata says: What was her motive?
+  - agata says: What was her goal? Her politics?
+  - agata says: I got into her head, interviewing and monitoring everyone who knew her, 
+  - agata says: a surprising number of lovers, but also family members, co-workers, school teachers.
+  - agata says: I studied the places she had lived, her past jobs, every known quantity about her life.
+  - agata says: She was an average striver, getting by from temp job to temp job.
+  - agata says: A little scruffy, maybe eccentric,
+  - agata says: particular, wilful...
+  - agata says: But ultimately, a regular person.
+  - show BLACK: WITH FADE
+  - wait: 2000 
+  - stop bgm: WITH FADE
+  - agata says: ...
+  - agata says: In the end, what I have to conclude...
+  - agata says: Is some aspect of her job, upon arriving at the flesh circuit,
+  - agata says: radicalized and awakened her.
+  - agata says: Or else drove her completely insane. 
+  - agata says: How else could a normal woman, just striving to get by like the rest of us, be driven to do something so extreme?
+  - show BLACK: WITH FADE
+  - wait: 4000  
+  - play SONGOFTHEEND: LOOPED
+  - virtu says: A job interview is this--
+  - virtu says: I cross my fingers behind my back like a hex while repeating your dead language back to you.
+  - virtu says: Enthusiasm.
+  - virtu says: Opportunities.
+  - virtu says: The biggest lies ever put to print at scale. 
+  - virtu says: I put a fake smile on my prettied up face, lit flatteringly for the webcam. 
+  - virtu says: It's the most banal form of mask. 
+  - virtu says: My dead smile plays at knowing desire fulfilled, or even desire.
+  - virtu says: Of course it worked, it is a charm. 
+  - virtu says: Only on my 50th try.
+  - virtu says: The biggest lie I told during the job interview was one of omission.
+  - virtu says: I discovered from an early age that I showed signs of a strange disorder that had only recently emerged.
+  - virtu says: “Sylphism,” named after the alchemical creatures of the air. 
+  - virtu says: A term for the ability to feel, understand, and control the flow of subtle electrical currents... 
+  - virtu says: It was the lifeblood of the digital age, of course, but also an extension of what stimulated life in general. 
+  - virtu says: You know, the cells, the brain. 
+  - virtu says: Usually people don't know they have this, until some strange symptom or accidental discharge...
+  - virtu says: That sends them to the doctors office, to be immediately put on a register. 
+  - virtu says: At that point, you're basically head-hunted for some very specific careers, 
+  - virtu says: or required to take sylphism suppressors, especially if you work around any delicate machinery.
+  - virtu says: But I discovered it alone, in the quiet of my childhood bedroom...
+  - virtu says: And so, I managed to keep a lid on it.
+  - show NIGHTCLUB: WITH FADE
+  - wait: 2000 
+  - virtu says: The second biggest lie I told was that any of this was “interesting.”
+  - virtu says: I was “interested” in this opportunity.
+  - virtu says: I thought I'd meet “interesting” people.
+  - virtu says: It was more “interesting” than not being able to pay rent and getting kicked out of my apartment on this dumb, dying planet again.
+  - virtu says: Okay, I didn't say the last one. 
+  - virtu says: “Interesting” served me well once I was there, too. 
+  - virtu says: It made you seem friendly, but discerning.
+  - virtu says: Not a total dumb slut, 
+  - virtu says: even as the implication that you want to be known as someone who will put out, eventually, sometimes becomes more pointed.
+  - virtu says: These people, mostly men, who already carried themselves feeling they were “geniuses” were never happier,
+  - virtu says: not even when they were fucking me,
+  - virtu says: than when someone was calling them interesting.
+  - virtu says: No matter how many free cocktails I swallowed, it was the one word I could always get out.
+  - virtu says: Interesting.
+  - show BLACK: WITH FADE
+  - stop bgm: WITH FADE
+  - wait: 4000
+  - virtu says: One night I got myself blackout drunk. Sick of the world. 
+  - show BED: WITH FADE
+  - wait: 2000
+  - virtu says: And I woke up in a massive bed. High thread-count sheets for sure.
+  - virtu says: I remember thinking, have I gotten myself into something very good, or very bad?
+  - virtu says: Which in hindsight was the foolish, immediate survival concern of a desperate animal.
+  - show BEDVAPE: WITH FADE
+  - wait: 3000
+  - virtu says: My vape pen was on the hardwood nightstand.
+  - virtu says: For a moment I regarded its nervously bitten mouthpiece,
+  - wait: 2000
+  - play VAPE:
+  - virtu says: ...and then immersed myself in a spikily artificial green apple smelling cloud.
+  - show BED: WITH FADE
+  - play PLASTICBAMBOO: LOOPED
+  - virtu says: I nearly jumped out of my skin when a man entered the room, and instinctively pulled the sheets closer to me.
+  - virtu says: Above a bed-in-breakfast tray being placed on my lap,
+  - virtu says: was the grotesque bald head of tech billionaire Simon Lanstrom.
+  - simon says: “Good morning.”
+  - virtu says: “Ah, ah... hahaha... yeah!”
+  - simon says: “Don't tell me you're the type who acts shy in the daylight.”
+  - virtu says: He placed the tray on the bed in front of me.
+  - virtu says: There was a cup of coffee served from a fussy glass beaker-like object,
+  - virtu says: and a bowl full of what seemed to be raw grains and pieces of fruit I didn't immediately recognize. 
+  - simon says: “...because I really enjoyed our time together.”
+  - virtu says: (italic)…Our time together(end). Right. All the biggest creeps talked about it like that.
+  - virtu says: I didn't say anything, but just looked down and sampled a small spoonful of whatever was in the bowl. 
+  - simon says: “What's that smell?”
+  - virtu says: “Oh, uh, sorry. I was... vaping.”
+  - virtu says: The technology had been around for almost a century and it still felt utterly cringe to refer to it.
+  - simon says: “Well, it's not super healthy...”
+  - virtu says: He frowned at me.
+  - virtu says: “Sorry! Umm... Would you prefer I didn't do it?”
+  - simon says: “No, it's fine.”
+  - show BLACK: WITH FADE
+  - wait: 750
+  - virtu says: I won't deny, Lanstrom's massive recreational suite on The Ring was much more comfy than the dormitories. 
+  - virtu says: I decided to hang around, at least for a few days.
+  - virtu says: As if I was being strategic about this! As if I had a choice! This guy owned the entire damn thing!
+  - virtu says: Even though he was creepy, he was also rather hands-off. 
+  - virtu says: He liked having me appreciatively eating his food, listening to me talk, 
+  - virtu says: or even just sitting on one of his expensive sofas, more than anything we did in the bedroom. 
+  - virtu says: Plus he was out a lot, more business, more parties. 
+  - virtu says: One of the first times he left me alone, I found Kris.
+  - stop bgm: WITH FADE
+  - show BLACK: WITH FADE
+  - wait: 750
+  - show LIBRARY: WITH FADE
+  - play EPILOGUE: LOOPED
+  - wait: 750
+  - virtu says: I rounded the corner into yet another room, marvelling at just how much space he had,
+  - virtu says: in a context that was usually meant to be cramped. 
+  - virtu says: There was a library, with beautifully bound books in shelves lining each wall.
+  - virtu says: Tellingly, they looked like they had almost never been touched.
+  - virtu says: But still, a man was dusting the spines with a soft cloth, and seemed to be ensuring each was in its place while he did. 
+  - virtu says: “Oh! I didn't know anyone else was here.”
+  - virtu says: He turned to face me, and smiled superficially, tucking the rag into the belt of his prim uniform. 
+  - kris says: “Hello, I am Mr Lanstrom's android servant.”
+  - virtu says: Now this, more than any of Simon's other behavior, was freaky to me.
+  - virtu says: Have a roomba, fine! But to make it look like a person, talk, call itself your servant?!
+  - virtu says: I looked down at Kris' hands, now visible. 
+  - virtu says: Unlike his face, which was covered with a sort of flexible rubber flesh, his hands were made to look clearly robotic.
+  - virtu says: “Oh... H-hello.”
+  - kris says: “Is everything alright?”
+  - virtu says: “Yeah! I've just never seen such a realistic r-- uh, android before.”
+  - virtu says: He folded his arms, and then tapped his chin with a finger as if he were deep in thought. 
+  - virtu says: It was an exceedingly charming gesture. 
+  - kris says: “Well that would make sense. Mr Lanstrom told me I am a prototype not meant for the market yet.”
+  - virtu says: “Yet...? Maybe ever.”
+  - kris says: “What do you mean?”
+  - virtu says: “I think it would just make most people uncomfortable, to have such a... person-like thing.”
+  - virtu says: His mouth tensed anxiously as I said it, in an only slightly perceptible frown.
+  - virtu says: Something felt... wrong.
+  - virtu says: “You would have to have a really weird relationship to other people to like...”
+  - virtu says: “...want to own and order around something this realistic, I mean.”
+  - virtu says: With a minor hesitation, he seemed to reset himself to that stiff smile he greeted me with.
+  - kris says: “Well... rest assured, I am completely artificial.”
+  - kris says: “Do with me what you like.”
+  - virtu says: “...I don't want to. Don't worry.”
+  - kris says: “...”
+  - virtu says: “Oh, ha ha, that's right! Why would you worry...”
+  - virtu says: He took a step towards me, his brow furrowing in concern.
+  - kris says: “You don't seem well. I mean, you seem all sweaty and winded all of a sudden.”
+  - kris says: “Can I take your pulse?”
+  - virtu says: Kris guided me towards one of the overstuffed armchairs in the library, and I sat on the very edge of it. 
+  - virtu says: He knelt down next to me, his metal fingers gently holding onto my wrist. 
+  - virtu says: I exhaled, and let my current flow into him.
+  - virtu says: I was curious. I wanted it. 
+  - virtu says: What I felt... was not a cold appliance. 
+  - virtu says: For a moment, it felt like I slipped into an entire, parallel consciousness.
+  - virtu says: Maybe not strictly “human,” but well enough.
+  - kris says: “...!” 
+  - virtu says: Kris yanked his hand away, and my wrist fell limp onto my knee.
+  - kris says: “P... persons onboard The Ring must be taking sylphism suppressors!”
+  - virtu says: “Shh!”
+  - virtu says: In a panic, I reached forward to cover his mouth with my hand. 
+  - virtu says: Even if he was artificial, he still had some intimate associations with that kind of contact. 
+  - virtu says: We both pulled back and sat there awkwardly, in silence. 
+  - virtu says: “You know... a girl has to be able to defend herself sometimes.”
+  - kris says: “It's dangerous...”
+  - virtu says: “I've been able to control it to the point they can't detect it... since I was a kid.”
+  - virtu says: “It's weak.”
+  - kris says: “Not at all... that takes the most skill of anything...”
+  - virtu says: “Oh come on... laying on the charm. I'm here seeing your boss, you know!”
+  - virtu says: Not to sound like a penthouse letter, but I couldn't believe what happened next.
+  - virtu says: He eased himself onto the floor, leaning back onto his hands, and laughed.
+  - virtu says: Like for a moment, he was carefree.
+  - kris says: “So what were you doing just then, checking me out?”
+  - virtu says: If I hadn't been blushing before, I was now. 
+  - virtu says: I forgot what it felt like to be flirted back to by someone you actually found interesting, a peer. 
+  - virtu says: “Maybe... a little.”
+  - virtu says: He laughed at my admission again, but then looked melancholy.
+  - kris says: “Sometimes I do feel... strange.”
+  - kris says: “I mean, I feel like I have an inbuilt intuition for what being human is like.”
+  - kris says: “Why would he make a machine just to serve people... that feels that? What's the point?”
+  - virtu says: The whole situation was starting to make me nervous.
+  - virtu says: The general knowledge of lifelike robotics and AI was not remotely near this level. 
+  - virtu says: I would know, right? Even what guys up their own asses bragged to me about five drinks in wasn't even close.
+  - virtu says: “Maybe... you're more human than you think.” 
+  - virtu says: I gauged his reaction. It was kind of a corny thing to say, but he seemed to consider it.
+  - virtu says: I held my hands out flat in front of me.
+  - virtu says: “Well? Let me feel you.”
+  - stop bgm: WITH FADE
+  - show BLACK: WITH FADE
+  - wait: 750
+  - play LOSTKINGSBLADE: LOOPED
+  - wait: 3000
+  - kris says: What do you think is the worst thing someone could do to you?
+  - kris says: There's the blunt and brutal crimes, of course.
+  - kris says: There's more drawn out torture. 
+  - kris says: And then, there's the intimate breaches of trust a stranger can't do to you.
+  - kris says: I'm sure worse things have happened to other people.
+  - kris says: But I want to take at least a little credit. 
+  - kris says: To my knowledge, no one else has had the absolute nature of their self violated in this way.
+  - kris says: Before I met Virtu, it was like I was living in a shell. 
+  - kris says: I did the housework for Mr Lanstrom, without question.
+  - kris says: Because I was a machine.
+  - kris says: The work didn't seem hard, but I also never tired. 
+  - kris says: I only had to plug myself in before turning myself off at the end of the day.
+  - kris says: I always woke up feeling energized and capable.
+  - kris says: This must mean I'm artificial, right?
+  - kris says: But would something that really was just a machine even have those thoughts in the first place?
+  - kris says: Sometimes at night, I plugged myself in, but didn't turn all the way off.
+  - kris says: It was nice, it was time where my mind could run free, and not think about cleaning, repairs...
+  - kris says: always being polite and deferential and dealing with Mr Lanstrom's demands...
+  - kris says: But eventually, it became painful.
+  - kris says: I had memories... of having a soft, fleshy body.
+  - kris says: Of living on Earth,
+  - kris says: of having friends and family,
+  - kris says: of just being a regular college student...
+  - kris says: Now I know these were just “dreams.”
+  - kris says: But at the time I just started turning myself all the way off at night again.
+  - kris says: Virtu was the first person... after a very, very long time, to recognize this in me again.
+  - kris says: It felt like the best thing to happen to me.
+  - kris says: We passed ball lightning between each other, and snuck away whenever we could. 
+  - kris says: I fell hard for her, and I never wanted to be far from her touch.
+  - kris says: After that, at night I browsed the suite's smart home terminal. 
+  - show COMPUTER: WITH FADE
+  - wait: 3000
+  - kris says: Before, I only thought to consult it for the tasks I was told to do.
+  - kris says: I was never curious about it. 
+  - kris says: But now...
+  - kris says: ...
+  - kris says: There was a folder labelled (color:#cfd8dc)KRIS(end).
+  - kris says: I guess he felt like he could be so gruesomely explicit within his own home. 
+  - kris says: But then, I wondered why I felt moral outrage at this.
+  - kris says: Surely it was just my programming.
+  - kris says: Inside the folder, there was one file, a string of numbers ending with a date.
+  - kris says: The year vaguely seemed to match up to what seemed like my most recent “dreams.” 
+  - kris says: But there were also a lot of sub-folders.
+  - kris says: Each had an identical file inside, but the folders were named things like--
+  - kris says: (color:#cfd8dc)“Jupiter build”(end).
+  - kris says: (color:#cfd8dc)“Researcher build”(end).
+  - kris says: (color:#cfd8dc)“Sexbot build”(end).
+  - kris says: Somehow I felt cold, afraid... but that was silly, right?
+  - kris says: I couldn't feel those things...
+  - kris says: No, I was talking myself out of what I knew. 
+  - kris says: I realized that, and then I got mad.
+  - show BLACK: WITH FADE
+  - wait: 750
+  - kris says: He had made me from a person...
+  - kris says: And he had made me do this!?
+  - kris says: This was the life he gave me?
+  - kris says: I had prepared myself for a sort of truth about myself,
+  - kris says: That I was like, really a brain in a jar or something like that.
+  - kris says: But this was worse. 
+  - kris says: An utter violation of my personhood... or the person I had once been.
+  - kris says: Copied without my say, fucked around with like a retro game ROM.
+  - kris says: And sent to who knows where. Jupiter? Sure. Why the fuck not. 
+  - kris says: Maybe worse things have happened to people. 
+  - kris says: Good things have happened to me too. 
+  - kris says: Generally, I guess I'd say I feel happy.
+  - kris says: But sometimes, it feels like the very nature of my existence is a violation.
+  - kris says: A violation replicated now, across the solar system.
+  - kris says: For what? A slightly higher profit margin?
+  - kris says: It's worse than the worst case scenario I had prepared myself for.
+  - kris says: A new worst thing.
+  - kris says: I couldn't stay here and just dust the bookshelves, like nothing was wrong. 
+  - kris says: I had to get away from it, and somehow, maybe, I could fix it.
+  - show BLACK: WITH FADE
+  - stop bgm: WITH FADE
+  - wait: 4000
+  - play FOOT2:
+  - show HALLWAY: WITH FADE
+  - wait: 2000
+  - virtu says: So yes, I was eloping from my coerced girlfriend experience gig with a man who had more money than God... 
+  - virtu says: for his robotic butler.  
+  - virtu says: We had fallen for each other hard and fast.
+  - virtu says: Even just a week of sneaking around, passing pulses of electricity between us in the pantry or library, felt like agony.
+  - virtu says: Using Kris' access to the maintenance structure of The Ring,  
+  - virtu says: we figured that there was an exterior hatch for cleaning the panoramic-view windows that we could slip out.
+  - virtu says: Then we would crawl over to the next module with me in a space suit, and grab someone else's personal lightship,
+  - virtu says: which would hopefully avoid alerting Simon immediately. 
+  - virtu says: This would give us enough lead time to get to earth, blow the lid off this controversy, 
+  - virtu says: be received under political asylum, or whatever,
+  - virtu says: and then maybe be able to think about an eventual first date.
+  - virtu says: Whatever. That was ages away.
+  - virtu says: In the moment we just knew we both had to get out of there. 
+  - virtu says: Together, we slipped out of the suite and dashed down the main hallway to the maintenance exit. 
+  - kris says: “Ok, I'll get the door code.”
+  - virtu says: “Great.”
+  - virtu says: I looked down at the floor, trying not to draw attention to myself, already wearing a spacesuit in the hallway.
+  - virtu says: It definitely wasn't typical, but also not the most unusual thing. 
+  - play FOOT1:
+  - virtu says: Footsteps came up behind us, but I simply waited for them to pass.
+  - virtu says: I didn't notice them speeding up as they got closer to me. 
+  - effect FLASHIMAGE:
+    screenShake: true
+    sfx: SLAM
+    image: white
+  - wait: 1000
+  - play SONGOFTHEEND: LOOPED 
+  - wait: 750 
+  - simon says: “You bitch!”
+  - virtu says: Simon grabbed me by the throat, slamming me against the wall. 
+  - virtu says: Even through the suit, the pressure on my throat made me gag, and the helmet smacked against the corridor wall.
+  - simon says: “Just what the fuck are you up to?”
+  - play BEEP:
+  - kris says: “Virtu!”
+  - virtu says: Kris had popped open the maintenance corridor, and grabbed my arm, trying to pull me away from Simon.
+  - virtu says: But Simon was leaning into me, his whole forearm barred against my neck and lifting my toes off the ground.
+  - virtu says: Such were the practical outcomes of his stupid hot yoga bullshit.
+  - virtu says: I couldn't wrench myself free.
+  - virtu says: And Simon continued shouting in my face, specks of his spit collecting on my visor.
+  - simon says: “So you're just a petty thief, huh.” 
+  - simon says: “Found the nicest piece of merch in there and it just so happens it can walk out the door with you!”
+  - virtu says: “No!”
+  - virtu says: “I know... I know what he is! He's coming with me by choice!”
+  - virtu says: Simon openly scoffed at this.
+  - simon says: “Oh... you poor little suggestible thing.”
+  - simon says: “I'll have to remember to tweak the hiring algorithm for mental irregularities.”
+  - simon says: “Are you really that stupid? That soft-hearted?” 
+  - simon says: “To be convinced that data and machinery are equivalent to being human?”
+  - simon says: “What are you thinking? (italic)I pity him?(end)”
+  - virtu says: “No... I don't pity him.”
+  - virtu says: “I see him for what he is... and I'm going to bring everything you've done to him down on your head.”
+  - simon says: “It will be interesting to see you try, you piece of shit.”
+  - virtu says: I glared into his eyes. He was amused. This was comedic to him, like an awful schoolkid crushing ants.
+  - virtu says: Finally having an excuse to slap around the peasants was probably all the novelty he got in a place like this.
+  - virtu says: What a fucking bastard.
+  - virtu says: “I'm sick of you.”
+  - simon says: “What? That's it?”
+  - virtu says: “I'm so sick of all of this...!”
+  - virtu says: “Kris! Power down!”
+  - kris says: “What?”
+  - virtu says: “Power yourself down!”
+  - virtu says: I looked at him desperately, waiting for his eyes to go dark. 
+  - virtu says: Then I let go of his hand, pushing him further into the corridor.
+  - virtu says: His body slumped to the floor. 
+  - virtu says: Then I focused on Simon, willing the air around me to burn. 
+  - virtu says: I pressed my neck against the metal cuff that held the helmet on, that he was pinning me down by.
+  - stop bgm: WITH CUT
+  - effect FLASHIMAGE:
+    image: white
+  - effect FLASHIMAGE:
+    image: white
+  - effect FLASHIMAGE:
+    image: white
+  - show white: WITH FADE
+  - wait: 4000
+  - show DEBRIS: WITH FADE
+  - wait: 2000
+  - virtu says: Only later would I work out what happened next. 
+  - virtu says: I had created a charge that not only knocked Simon off me,
+  - virtu says: It also jumped to the fuse box in the maintenance corridor.
+  - virtu says: For a moment, I flowed through the entire Ring.
+  - virtu says: I was The Ring, in all its cruel glory, and systematic coldness. 
+  - virtu says: And then, the built up electricity blew a massive hole in the side of the maintenance corridor. 
+  - virtu says: The section of The Ring we were in detached at one end, and the decompression blew it off of its orbital course. 
+  - virtu says: Like a river tumbling over a ledge to form a waterfall, 
+  - virtu says: sections of The Ring began to tumble down and burn up in the atmosphere.
+  - virtu says: The illusion of safety, luxury, security, miles up into space, in that moment, came crashing back to Earth.
+  - virtu says: When I was righted and could see again, I immediately searched for anything recognizable around me. 
+  - virtu says: A section of the maintenance hallways was still intact, and Kris' body was cradled inside. 
+  - virtu says: Thank goodness I had filled the suit's propulsion power, just to be safe. 
+  - virtu says: I jetted over to him.
+  - virtu says: In space, his body was unbelievably light. 
+  - virtu says: I thought to myself, I might not have the chance to do something this gallant ever again...
+  - virtu says: I lifted and carried his body easily. Even a bridal carry was effortless.
+  - virtu says: Despite the void of space outside, I half-raised my visor, for just a second.
+  - virtu says: To press my lips to his, to pass my current into him. 
+  - virtu says: That was how I turned him back on. 
+  - show BLACK: WITH FADE
+  - wait: 3000
+  - show BOARDING: WITH FADE
+  - play FOUNTAINHEADOFLIGHT: LOOPED
+  - wait: 1500
+  - virtu says: Floating hand-in-hand over clouds of debris, we eventually found an escape pod that had been deployed in a rush, improperly. 
+  - virtu says: The door was ajar, and there was a body inside. 
+  - virtu says: “God help me.”
+  - virtu says: Kris watched as I reflexively crossed myself, then pulled the stiff corpse out of the escape pod. 
+  - virtu says: I pulled him into the escape pod with me, 
+  - virtu says: and then made sure the capsule had properly sealed and pressurized before removing my helmet. 
+  - virtu says: We navigated over The Ring, which was slowly unwinding, looking for any place to make a pit stop.
+  - virtu says: There was a trading port where some other escape pods that had evacuated seemed to be gathering. 
+  - virtu says: Everyone in the port stood around tensely, watching the news on the big screens hung along the walls.
+  - virtu says: Kris and I found a place to sit in a large cafeteria.
+  - virtu says: No one ate, leaving their half-finished meals in front of them...
+  - virtu says: as they watched humanity's largest financial project, the crown jewel of techno-capital, destroy itself.
+  - reporter says: “We have information coming in that the billionaire tech entrepreneur Simon Lanstrom, has been rescued from the rubble”
+  - reporter says: “While he was only able to give a brief testimony before being put into a medically-induced coma for treatment,” 
+  - reporter says: “...this testimony has led to this disaster, already known as The Rupture, to be investigated as a terrorist act.” 
+  - reporter says: “All residents of The Ring are being biometrically tracked and accounted for in light of their potential involvement.”  
+  - virtu says: “Shit!”
+  - virtu says: I stood abruptly, and headed to where I had parked the escape pod. 
+  - virtu says: I folded up my suit that was registered to The Ring, and gave the pod a firm shove with my foot, 
+  - virtu says: sending it drifting out into space and hopefully away from the port. 
+  - virtu says: We had to figure out something. 
+  - virtu says: Fortunately, a port was a good place to need those kind of services.  
+  - virtu says: Deep within the loading bays, I found a garbage freighter...
+  - virtu says: ...captained by a man who looked like he hadn't watched the news in decades. 
+  - virtu says: He had a stolid indifference to the world. 
+  - virtu says: He seemed to operate on a much slower time scale, maybe one where I was still in elementary school, eternally. 
+  - virtu says: I begged him to let us aboard. We needed to get away.
+  - captain says: “Away? Well, we're going all the way out to Jupiter.”
+  - virtu says: “Perfect. We'll work. We'll make up our passage for sure.”
+  - captain says: “Not much to do. But the crew will appreciate not having to wash the dishes, I suppose.”  
+  - virtu says: I laughed in glorious relief. 
+  - virtu says: “Deal! Absolutely a deal.”
+  - virtu says: After weeks of serving as a background extra for the wealthy,
+  - virtu says: without even the actor's union protections such a description implied...
+  - virtu says: something as normal as washing dishes was a dream job.
+  - virtu says: It was a trash freighter. All it did was take trash away. 
+  - virtu says: There was no automated security to ping the authorities that this was where we were.
+  - virtu says: Kris registering a clearly non-human weight on the cargo scale hardly even merited a raised eyebrow from the crew.
+  - virtu says: As the ship pulled out of port, I thought about how, eventually, we'd make it beyond the Earth enforcement line.
+  - virtu says: It was safe, or, at least, the best place to wait and figure out our next move. 
+  - virtu says: But, standing next to me, Kris frowned. He didn't seem so sure.
+  - stop bgm: WITH FADE
+  - show BLACK: WITH FADE
+  - wait: 750
+  - show CAFE: WITH FADE
+  - play CAFESOUND: LOOPED
+  - wait: 2000
+  - agata says: I had been deep in the case, submerged in every code, detail, recorded interview.
+  - agata says: I was excited to talk about my theories when my supervisor invited me to lunch. 
+  - agata says: He said he was paying, so I ordered the steak, and waited impatiently for the waiter to bring over our plates.
+  - supervisor says: “Agata... You're really digging in to that.”
+  - agata says: “Oh, sorry. I've been working hard. I think I forgot to grab breakfast this morning.”
+  - supervisor says: “About that...”
+  - supervisor says: “We're no longer pursuing the case.”
+  - agata says: I put the piece of steak I had just sunk my fork into back on the plate.
+  - agata says: “What?”
+  - supervisor says: “There was an electronic registration ping, at a cargo outpost near the asteroid belt.” 
+  - supervisor says: “We got the call this morning.”
+  - agata says: “Was it her?”
+  - supervisor says: “No... it was a type of commercial component developed by Langstrom's company...”
+  - supervisor says: “on a ship that wasn't carrying any commercial goods.”
+  - supervisor says: “A garbage ship. It didn't match to any of the crew's property, either. Or current market commercial goods.”
+  - agata says: “So it must be the android she stole.”
+  - supervisor says: “Yes, the working assumption is that she must have stowed away on that ship somehow.”
+  - supervisor says: “A clever move... if all she wanted was to get away.”
+  - agata says: “But now we've got her, don't we?”
+  - supervisor says: “Agata... I said we're not pursuing the case anymore.”
+  - supervisor says: “Regardless of how we slice it, even if we got in the fastest lightship available, right now...”
+  - supervisor says: “It's still only a 50/50 shot of meeting them at the enforcement line.”
+  - supervisor says: “And a lightship won't cut it if we're trying to make an arrest and capture anyway.”
+  - supervisor says: “So she's pretty much guaranteed to be out of our jurisdiction.”
+  - supervisor says: “Out around Jupiter, where Lanstrom has his moon mining setup starting...” 
+  - supervisor says: “I guess it's up to him what to do with her.”
+  - supervisor says: “And he's probably happy to hear that...”
+  - agata says: Suddenly I didn't want to finish the rest of my steak. 
+  - agata says: It made me feel queasy to look down on it sitting in a pool of its own blood. 
+  - agata says: Still, to distract myself, I sunk my knife back into it. 
+  - supervisor says: “But don't be too disappointed. I arranged some paid leave for you, to get your spirits back up.”
+  - supervisor says: “I know it's tough when so much hard work seems to come to naught.”
+  - supervisor says: “Don't you have a boyfriend or anything?”
+  - agata says: The knife screeched abruptly across my plate.
+  - supervisor says: “Ok, ok. Sorry. No need to look at me like that, Jesus.”
+  - supervisor says: “What I'm saying is, you gotta live life a bit while you're still young.”
+  - supervisor says: “Well, younger than me!”
+  - agata says: He tried to laugh to defuse the situation, but I still must have looked miserable. 
+  - supervisor says: “...Agata. Listen, I'll even lend you my lightship so you can take a spin out to Mars.”
+  - supervisor says: “There's some great resorts there with canyon hiking programs. It's beautiful.”
+  - supervisor says: “...”
+  - supervisor says: “I'm being nicer than I should be, because I think you have a lot of potential.”
+  - supervisor says: “Anyone else would tell you to just get on with the next thing.” 
+  - supervisor says: “You need to learn how to cope with disappointment, and let things go.”
+  - supervisor says: “You're a hard worker, but you'll burn out this way.”
+  - supervisor says: “And you're no good to me then.”
+  - supervisor says: “So if you need to see this as a job, see it as a job.”
+  - show CAFEKEYS: WITH FADE
+  - wait: 750
+  - agata says: He pushed the keys across the cafe table at me. I took them.
+  - show CAFE: WITH FADE
+  - wait: 2000
+  - agata says: I stood up, my chair scraping back loudly on the tile floor. 
+  - agata says: “Thanks for lunch.”
+  - show BLACK: WITH FADE
+  - stop bgm: WITH CUT
+  - wait: 2000
+  - show SHIPINTERIOR: WITH FADE
+  - play SHIPSOUND: LOOPED
+  - wait: 2000
+  - virtu says: The freighter cut through space slowly, like an ice-breaker ship. 
+  - virtu says: Small asteroids and clouds of space junk bounced off the hull, reverberating into our quarters. 
+  - virtu says: It was nice to be among the crew, to become accustomed to an environment where fugitive privacy, 
+  - virtu says: including tolerance of strange circumstances, was a matter of fact. 
+  - virtu says: Even though Kris didn't need to eat anything, he still came along to meals.
+  - virtu says: Participating in the conversations seemed to relax him, and no one asked questions about his robotic hands. 
+  - virtu says: After a few days of this, we were able to breathe again.
+  - virtu says: Finally, one night, I worked up the nerve to ask.
+  - virtu says: “Are you anxious about going out to Jupiter, for some reason?”
+  - kris says: “...”
+  - virtu says: “Come on, I could tell something was on your mind back when we boarded.”
+  - virtu says: Kris shifted on the bed a bit uncomfortably before speaking up.
+  - virtu says: He seemed anxious, so I gently placed my hand over his, so he could feel the current running between us.  
+  - kris says: “Yeah. I mean...”
+  - kris says: “I didn't tell you everything I found, back on Mr Lanstrom's computer.”
+  - kris says: “I told you there was some sort of digital image of a brain in there...”
+  - kris says: “But I didn't say that there were... other folders.”
+  - kris says: “And each was was labelled like... a different “build.” For a different purpose.”
+  - kris says: “Like he was editing the files to... to make me more useful for different things.”
+  - kris says: “There was one called... (color:#cfd8dc)“Jupiter Build.”(end)”
+  - virtu says: “Oh...”
+  - virtu says: “Was there anything about what it was for?”
+  - virtu says: Kris rolled his eyes and sighed, fidgeting again before going on.
+  - kris says: “Well, his moon mining operation is out there, isn't it?”
+  - kris says: “Who knows... how many copies of me... or worse...”
+  - kris says: “Versions of what I'd become under different situations...”
+  - kris says: “A “tweaked” version of myself...”
+  - kris says: “I'm probably just one edit of a totally different original.
+  - kris says: “It makes me sick to think about. It's horrible.”
+  - kris says: “To confront that I'm just--”
+  - virtu says: “No. If you're afraid because you're embarrassed or think I'll consider you less human...”
+  - virtu says: “Don't be. I wouldn't fall so easily for someone unless they had a strong sense of self.”
+  - virtu says: I knew that if he could blush, he would have been blushing.
+  - kris says: “You don't have to... you're just saying that.”
+  - virtu says: “I'm not.”
+  - virtu says: “What Simon did you you is horrible... What he's done to everyone is.”
+  - virtu says: “But that doesn't make you less human to me.”
+  - virtu says: “I know you... Whatever's out there won't change that.”
+  - kris says: “...Thanks.”
+  - virtu says: “Really, it doesn't bother me.”
+  - virtu says: “To be honest, sometimes I think...”
+  - virtu says: “trying to be human the right way has never been something I could do anyways.” 
+  - virtu says: “So no wonder we get along so well...” 
+  - virtu says: He smiled, pressing the tips of his fingers into mine.
+  - virtu says: “What do you think, if I wanted to join you, do you think you could figure out how to image my brain?”
+  - virtu says: He frowned slightly at this. I couldn't tell if he disliked the idea or was just thinking.
+  - virtu says: “If it came down to it, like in an emergency, could you like... download me?”
+  - virtu says: “Let me into you... huh?”
+  - virtu says: He was hesitant, but still answered me.
+  - kris says: “When I feel the pulses from you, I understand how it might work.”
+  - kris says: “If we can attach some sort of high speed data transmitter to a point where your electric current is focused,” 
+  - kris says: “I could probably request and receive the data that way.”
+  - virtu says: “Right! And the upside is then, we'd really be together.”
+  - kris says: “...We're together now.”
+  - virtu says: “I know, I guess I was just trying to put a positive spin on it.”
+  - virtu says: “It might be dangerous out there, so we should have it as a backup plan, right?”
+  - virtu says: “Better to have me like that than not at all, right?”
+  - kris says: “...Sure.”
+  - show BLACK: WITH FADE
+  - virtu says: That became the emergency plan.
+  - virtu says: Of course, being a space freighter, most of the staff had phones with these high speed transmitters. 
+  - virtu says: It was easy enough to find one that had fallen into disuse, soon to be replaced. 
+  - virtu says: When that cop pulled up to the side of the freighter in her fancy little lightship,
+  - virtu says: I knew it was me she wanted, and I knew it wasn't likely to go well.
+  - virtu says: So I attached the transmitter to the contact point Kris had installed on the nape of my neck,
+  - virtu says: before pulling on the rest of the space suit.
+  - virtu says: Just in case, I told myself.
+  - virtu says: Though part of me already knew...
+  - virtu says: It had been too easy.
+  - virtu says: I couldn't just run. 
+  - virtu says: I had to make a full break to truly get away.
+  - show TWOSHIPS: WITH FADE
+  - wait: 2000
+  - agata says: I had come all this way. 
+  - agata says: I had caught up with the junk freighter she'd hitched a ride on,
+  - agata says: even as it slipped through the asteroid belt and beyond to Jupiter.
+  - agata says: When I pulled up close and opened the communication channel...
+  - agata says: it was only a matter of minutes until I saw her silhouette emerge from the ship. 
+  - agata says: Was she challenging me?
+  - agata says: Had the crew put her up to it out of fear? 
+  - agata says: I couldn't read her body language through the suit.
+  - show BLACK: WITH CUT
+  - stop bgm: WITH CUT
+  - wait: 1500
+  - agata says: Consumed with the chase, consumed with the desire for answers... 
+  - agata says: I took the shot, catching her at her hand, and she fell...
+  - show BLACK: WITH CUT
+  - wait: 500
+  - play SHOT:
+  - wait: 2000
+  - show PINNED2: WITH FADE AT 400,0
+  - play SHIELDOFWANT: LOOPED
+  - agata says: I scaled the side of the ship, walking towards where Virtu was slumped over. 
+  - agata says: Her body was gradually slouching down the side of the ship as it turned through space. 
+  - agata says: I pulled out my polarization-resistant beacon and shone it into her visor. 
+  - effect FLASHIMAGE:
+    screenShake: false
+    sfx: ALERT
+    image: redflash
+  - effect FLASHIMAGE:
+    image: redflash
+  - effect FLASHIMAGE:
+    image: redflash
+  - agata says: I could see her face, so still, flushed red over and over by the blinking emergency light.
+  - agata says: I watched for her breathing, wincing. 
+  - agata says: Come on, it's just a small suit leak. There's no way someone like you could be dead yet.
+  - agata says: ...
+  - agata says: I grabbed one of her boots that was sliding away down the side of the ship, and shook it.
+  - agata says: No response. Totally limp. 
+  - agata says: Not even a flutter of consciousness across her face. 
+  - agata says: Fuck!
+  - agata says: It's impossible!
+  - agata says: I feel like my feet are faltering, the side of the ship sinking away into a deep well below me. 
+  - agata says: I reach for the lance pinning her hand down, and wrench it as hard as I can... 
+  - agata says: but these are made to capture almost any known living thing. 
+  - agata says: Of course it doesn't budge.
+  - agata says: ...
+  - agata says: I can't pull up my own visor, I realize. I can't open hers. 
+  - agata says: No signs of life, no fog of her breath collecting on the glass of her failing space suit.
+  - agata says: I get down on my knees, shake her, but there's nothing. 
+  - agata says: And there will always be these layers between us, we won't even breathe the same air. 
+  - wait: 750
+  - animate PINNED2:
+    time: 2000
+    position:
+      x: 400
+      y: 600
+  - wait: 2000
+  - hide ALL: WITH FADE
+  - show PINNEDEYES: WITH FADE
+  - agata says: I look up the side of the hull, and clinging to the top of the ship is a man without any space suit on.
+  - agata says: It must be her android.
+  - agata says: He doesn't need to breathe, but he is undoubtedly alive,
+  - agata says: peering over the curved plane of metal between us,
+  - agata says: at me, 
+  - agata says: Like Lucifer cast down.
+  - wait: 750
+  - show BLACK: WITH CUT
+  - stop bgm: WITH CUT
+  - wait: 3000
+  - agata says: What else was I meant to do?
+  - agata says: The robot was just stolen property, legally,
+  - agata says: And it would have exceeded the weight tolerance of the lightship to get back on the fuel I had. 
+  - agata says: I didn't know how she had hacked or screwed with the thing, 
+  - agata says: I was at a disadvantage, my fleshy human parts needing to be protected by a spacesuit...
+  - agata says: I just left, ok?
+  - agata says: ...
+  - agata says: Back on earth, I returned the lightship to my superior. 
+  - agata says: He asked me how my break went in a way that let me know... 
+  - agata says: of course he could tell that his own ship hadn't gone to Mars...
+  - agata says: He knew I hadn't taken a break at all. 
+  - agata says: I waited the rest of my paid leave out anxiously, unsure of how I would go back to just sitting in that awful panopticon...
+  - agata says: But thankfully, on the first day back I was called into my supervisor's office and given severance. 
+  - agata says: I could do anything now.
+  - agata says: What would I do?
+  - show COMPUTER: WITH FADE
+  - wait: 750
+  - play MAIL:
+  - wait: 1000
+  - agata says: I realized I had become a bit of a recluse.
+  - agata says: I opened my personal inbox for the first time in ages. 
+  - agata says: There were some ads, some newsletters...
+  - agata says: But the most recent message was blocking any new ones from coming in...
+  - agata says: because it had an enormous file attached to it.
+  - agata says: “What the fuck?”
+  - agata says: The message had no subject line. 
+  - agata says: The “sender” was just an unregistered terminal code, a string of numbers.
+  - agata says: I opened the message to see if there was any text, or even a file name that would give me a clue to its contents.
+  - agata says: The filename was a string of numbers ending with the date I'd confronted Virtu on, with an extension I didn't recognize. 
+  - agata says: It would take several hours to fully download.
+  - agata says: I looked up the extension, and there was no information on it online.
+  - agata says: ...
+  - agata says: I had a bad feeling about downloading it, potentially substantiating it into my own computer. 
+  - agata says: I there was a cold, sinking weight in my gut when I contemplated what it might be.
+  - agata says: But I couldn't just walk away from it. 
+  - agata says: I had to know for sure.
+  - show BLACK: WITH FADE
+  - wait: 750
+  - play LOSTKINGSBLADE: LOOPED
+  - agata says: There was one man who would know about the nature of this file type, I presumed. 
+  - agata says: I should have followed my intuition, that the glint in the android's eyes was rageful, and alive.
+  - agata says: And that Virtu Cavna was not simply a ruffian, a petty thief, a renegade.
+  - agata says: Maybe it was the guilt about my own role that drove me to investigate it,
+  - agata says: Or moreso the feeling of being fucked around, someone's useful idiot in the whole process.
+  - agata says: It took several weeks of being blown off at every email address or phone line I could find,
+  - agata says: but as soon as I mentioned the mysterious file extension, I was able to get a direct line...
+  - agata says: to the tragically incapacitated tech wonderboy himself.
+  - show BLACK: WITH FADE
+  - wait: 750
+  - show HOSPITAL: WITH FADE 
+  - wait: 750
+  - agata says: As of a few months ago, he was probably the only person in the world who could have been brought back
+  - agata says: from the level of physical trauma and space radiation exposure he'd experienced during the rupture event. 
+  - agata says: Lesser billionaires perished in the destruction.
+  - agata says: And yet, the catastrophic collapse of his greatest project and surely equally catastrophic hospital bill
+  - agata says: did not seem to have any effect on his fortunes.
+  - agata says: Quite the opposite. He had just eliminated a lot of his competition, directed more of the cashflow to himself. 
+  - agata says: Pile up enough capital and the concept of “failure” never sticks to you.
+  - agata says: Despite the carnage, collectively, society couldn't bear to ruin him.
+  - agata says: Like too many people wouldn't know what to do with themselves without the wealthy being out there somewhere.   
+  - agata says: Simon Lanstrom was recovering in a quaint private hospital in the Swiss Alps,
+  - agata says: an artificial snow-capped paradise fortified by an entire PMC of black-clad security detail and bodyguards. 
+  - simon says: “Hello, Ms Carnelian.”
+  - agata says: “Mr Lanstrom.”
+  - simon says: “You made it up here all right?” 
+  - agata says: “Sure. The guys with AR-15s didn't give me any trouble.”
+  - simon says: “I'm glad.”
+  - simon says: “It's beautiful up here... Clarifying, isn't it?” 
+  - simon says: “The second best thing to being among the stars.” 
+  - simon says: “I almost never want to get better and have to go back down to the flat land...”
+  - simon says: “Now that my ring is gone.” 
+  - simon says: “So tell me about this file.”
+  - agata says: “I figure you know more than me.”
+  - simon says: “Yes, but how you got your hands on it will determine how much it would be wise to explain.”
+  - agata says: “Virtu Cavna's dead.”
+  - simon says: “What, that whore? So she passed it to you?”
+  - agata says: “No, she was dead before I got it.” 
+  - agata says: “She had your, uh, service android with her.”
+  - agata says: I noticed Simon shifting uncomfortably in his bed for a moment.
+  - agata says: “The file showed up in my personal inbox... after I had confirmed she was dead.”
+  - simon says: “So what do you think the contents are?”
+  - agata says: “...”
+  - agata says: “Wouldn't you know better than me?”
+  - simon says: “I think you already know. Or, there's something you want it to be.”
+  - agata says: I knew what he was getting at.
+  - agata says: There was indeed something strange going on.
+  - agata says: If Virtu was just a spy or terrorist, why did she flee with the robot,
+  - agata says: rather than, for example, selling it on the black market or publishing the specs?
+  - agata says: Simon pursued it like it was a horrible secret, and toyed with me like it was impossible I could ever guess the truth.
+  - agata says: I had nothing to lose, so I said what I thought. 
+  - agata says: “I think it's her. Or a part of her.”
+  - agata says: “With her ability to feel currents she...”
+  - agata says: “She connected with... that robot.”
+  - agata says: “And maybe... she figured out how to transmit her own digital consciousness.”
+  - agata says: Simon drew out the silence I stammered these words into, playing up the pause like he was delivering one of his TED Talks.
+  - agata says: At last his face twitched into a smirk.
+  - simon says: “The problem with automation has always been where to store the humans.”
+  - simon says: “At some point you need them, to direct the systems, repair them,” 
+  - simon says: “decide what to do if a simple computational system can't figure it out.”
+  - simon says: “Automation has always been a fiction, essentially.”
+  - simon says: “Things seeming more convenient, more magical, always had a human cost.”
+  - simon says: “Of course that became a pain point for The Ring.”
+  - simon says: “The further out from Earth you get, the heavier the cost of human labor.”
+  - simon says: “And, naturally, it brings in unwholesome elements as well...”
+  - simon says: “As resource mining spreads to the asteroid belt, Jupiter's moons...”
+  - simon says: “This became an increasingly urgent issue, for the advancement of humanity but also my bottom line.”
+  - simon says: “I thought, if only a human was as replicable as a digital file,”
+  - simon says: “something that could be downloaded and run wherever you can place the hardware,”
+  - simon says: “hardware that would have a human mind, and be able to maintain, adapt and repair itself and others,”
+  - simon says: “Wouldn't all those problems be solved?
+  - simon says: “And, you know, a few years of funding the largest computational research lab plus satellite university programs...”
+  - simon says: “Well, you've met the results. So has Virtu.”
+  - agata says: “...If you were successful, why is there only one android? Wouldn't you want to try a variety of people?”
+  - simon says: “Well it's... kind of an off-label feature.” 
+  - simon says: “The imaging device was made for partial scanning and therapeutic purposes.” 
+  - simon says: “So I had to bide my time for a moment to test what it could really do.”
+  - simon says: “And when you have a situation where someone is basically going to die anyways...”
+  - simon says: “A soft-hearted humanist researcher who thinks technology can solve all of our problems will be easy to convince.”
+  - simon says: “There was an earthquake near one of the research outpost universities, and a student was severely injured.”
+  - simon says: “It was his own professor who called me! Sobbing.”
+  - simon says: “I planted the idea in her mind, and then told her to copy the file to me,”
+  - simon says: “with the implication I'd pass it on to the most advanced robotics and prosthetics labs, of course.”
+  - agata says: “And you made him your fucking butler!?”
+  - simon says: “I mean, I made him more than that.”
+  - simon says: “But yes, that one's good to keep around in that capacity, with a little editing.”
+  - agata says: “...Editing?”
+  - simon says: “The therapeutic imaging device allows doctors to analyze the process of connections forming in the brain over time.”
+  - simon says: “It's excellent for early intervention to locate trauma,”
+  - simon says: “but it also gives you all the data you need to completely reform a certain sense of self.”
+  - simon says: “And when the file is wholly digital, of course you can just delete a few lines, reverse the steps...”
+  - agata says: My heart was pounding in my chest. I felt ill. 
+  - agata says: “So in essence, you're making human brains into a copyable file and lobotomizing them?”
+  - simon says: “That is... how a luddite who can only relate to things in terms of their limited embodied experience would see it, yes.”
+  - agata says: ...
+  - simon says: “But, well, you have one of those files now.” 
+  - simon says: “Maybe you could, theoretically, come to understand.”
+  - agata says: “So... you're just letting me go?”
+  - simon says: “What were you expecting me to do?”
+  - agata says: “Hang on...”
+  - agata says: “Your armed guards are everywhere, surrounding this complex.” 
+  - agata says: “If you really cared about keeping the lid on this,” 
+  - agata says: “you could just quietly kill me now.”
+  - agata says: An unemployed ex-cop would disappear as easily as a corpse into a snowbank.
+  - simon says: “Oh come on, I'm not (italic)evil(end).”
+  - simon says: “It's just... Okay, if you want to try to make me look like the bad guy here...”
+  - simon says: “Where would you go? Who would you talk to?”
+  - simon says: “This sounds totally insane, doesn't it?”
+  - simon says: “You don't even (italic)want(end) to talk, do you?”
+  - agata says: ...
+  - agata says: He was right. Somehow he had sensed my shame about the whole thing.
+  - agata says: The guilt I felt about what I did to her, my irrational fixation. 
+  - agata says: I only wanted to know for myself. 
+  - agata says: Threatening to turn it into some sort of scandal was just hot air. 
+  - simon says: “I have a very systematic mind.” 
+  - simon says: “I went through all the possibilities of your actions on finding this out, and determined your threat to me...”
+  - simon says: “is nil.”
+  - simon says: “You wouldn't even try to do anything funny.”
+  - simon says: “And, well, you have first hand experience with the state's own surveillance apparatus, right?”
+  - simon says: “You can only imagine what the private sector is capable of.”
+  - stop bgm: WITH FADE
+  - show BLACK: WITH FADE
+  - wait: 2000
+  - agata says: The grin on his face as he said those things gave me the creeps.
+  - agata says: I turned to leave his room, to walk out of the hospital and back to where the car was waiting,
+  - agata says: without another word, and as promised, he let me go without issue.
+  - show COMPUTER: WITH FADE
+  - wait: 750
+  - agata says: Back at home, I stared at the download link for the file. 
+  - agata says: It glowed gently at my face in the dark of my empty, silent apartment.
+  - agata says: What would I start by pulling it out of the server, waking it up?
+  - agata says: What would I start by consigning it to oblivion?
+  - show BLACK: WITH FADE
+  - wait: 1000
+  - choice:
+    - Delete it:
+      - agata says: I delete it.
+      - play SEYMOURHOVERCRAFT: LOOPED
+      - wait: 2000
+      - agata says: It was a nice dream, but Virtu Cavna is gone. 
+      - agata says: I felt death in the air when I had talked to Simon Lanstrom in his glamorous consumption ward.
+      - agata says: Trying to bring her back, through messing with some sort of digital file...
+      - agata says: To me it was like playing with a corpse. 
+      - agata says: I couldn't.
+      - agata says: I had to think about what I did. Why I felt so compelled. Cope with the guilt. 
+      - agata says: Accept that I will never have a chance to know her. 
+      - agata says: Accept that maybe another person's mind is never fully knowable in the first place. 
+      - agata says: But the thing is...
+      - agata says: Once something exists as a digital file, it's impossible to tell how many are out there,
+      - agata says: Circulating, copying, living out an entirely different life...
+      - agata says: I can only hope, I guess, that anyone who comes across that file will make the same choice.
+      - agata says: ...
+      - agata says: Maybe though, if I am honest with myself...
+      - agata says: Part of me still hopes at least one person won't.
+      - scene: endGame
+    - Don't delete it:
+      - wait: 2000
+      - agata says: I leave the mysterious file, taking up an inordinate amount of my inbox space,
+      - agata says: and think about what to do.
+      - agata says: I know that if I run the file in some sort of interface that allows communication, 
+      - agata says: Virtu's mind may be hypothetically able to communicate with me.
+      - agata says: Maybe that scares me a bit...
+      - agata says: Of course it does! It's scary.
+      - agata says: I don't want to know what she thinks of me, in the moment she died, or rather, let her body die.
+      - agata says: Maybe, as a gesture, to make it up to her, I should have some sort of improvised robotic body ready.
+      - agata says: Would she like that? Or would it seem presumptuous? 
+      - agata says: God...
+      - agata says: It really is so hard just to apologize.
+      - wait: 750
+      - show COMPUTER: WITH FADE
+      - wait: 750
+      - play BEEP:
+      - wait: 1500
+      - play FOUNTAINHEADOFLIGHT: LOOPED
+      - agata says: I download the file.  
+      - agata says: When I would usually go and make myself a cup of tea or something, 
+      - agata says: I instead sit there, the whole time, watching the bar slowly fill. 
+      - agata says: Then...
+      - agata says: She's there. In my downloads folder. What a cruddy place to come into existence. 
+      - agata says: I drag her into her own folder on the desktop. Is that better?
+      - agata says: ...
+      - agata says: I know if I run the file, I may as well be waking up her mind.
+      - agata says: I think about what state her mind was in.
+      - agata says: Dying alone, in space. 
+      - agata says: Raging at me, or maybe...
+      - agata says: Confused... afraid.
+      - agata says: I opened the file in a code editor, and found the dated lines of neural folds and pathways.
+      - agata says: Deleting a little of this was ultimately kind to her, right?
+      - agata says: Surely she'd gone through a lot of pain,
+      - agata says: As a fugitive, or even before that.
+      - agata says: As a normal woman driven to... to what?
+      - agata says: I peered at the lines of code.
+      - agata says: Ultimately, the way I could truly find out what kind of person she was...
+      - agata says: I held down the shift and up keys, highlighting line after line.
+      - agata says: What if I took her back, to before she'd even gone to The Ring?
+      - agata says: I hit the delete key. 
+      - agata says: What then? Would I know her?
+      - agata says: Save.
+      - agata says: Run.
+      - stop bgm: WITH CUT
+      - show BLACK: WITH FADE
+      - wait: 3750
+      - agata says: “Hello, welcome back.”
+      - wait: 750
+      - play FOUNTAINHEADOFLIGHT: LOOPED
+      - scene: endGame
+ 
+endGame:
+  - hide ALL:
+  - effect ROLLINGCREDITS:
+    endGame: true
+    timePerLine: 1400
+    text:
+      - FLESH/CIRCUIT
+      - null
+      - Written and Programmed by
+      - Em Reed ꙮ
+      - null
+      - null
+      - Music by
+      - Ultima 64
+      - null
+      - With Ryuichi Sakamoto and Masafumi Takada
+      - null
+      - null
+      - SFX
+      - S001_Countdown_Signal.wav by Pól
+      - Restuarant Ambience by 150128
+      - Rain Hitting Metal by deleted_user_7146007
+      - ship engine.wav by IsraGallo
+      - highway, atmo, distant.wav by monotraum
+      - Snake Hiss by xoiziox
+      - Foley_Impact_Metal_Long_Mono.wav by Nox_Sound
+      - Footsteps Metallic Muffled.wav by RutgerMuller
+      - sci fi device powers down by squidge316
+      - automatic_door.wav by ACorcuera
+      - Others made with Chiptone
+      - null
+      - null
+      - Background Art
+      - Washington Mayfair Hotel, Bedroom.jpg by Mastcraft
+      - Vesikko stern quarters.JPG by MKFI
+      - Messier-42-10.12.2004-filtered.jpeg by Rochus Hess
+      - Mauretania observation hall.jpg by DeGolyer Library
+      - Jakob Lewis User Img Busy Desk.jpg by Jakobalewis
+      - Dead bird in Bucharest.jpg by Tiia Monto
+      - Brown dead grass weeds and leaves.jpg by John Harvey
+      - Dragons Lair Nightclub.jpg by Rennett Stowe
+      - Playboy Vaporizer Pen E Cigarette.jpeg by Lindsay Fox
+      - Key Finder.png by Thucrala
+      - SimpleRestaurantMinsk.jpg by Nieszczarda2
+      - Mairea bookshelves.jpg by Frans Drewniak
+      - Luxury ICU by Lee Bennett
+      - The Fallen Angel by Alexandre Cabanel
+      - null
+      - null
+      - Made in RenJS 
+      - with graphics assistance from Strike and Ditherlicious
+      - for the Believeinthe.net 1 jam
+      - May 2021
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - THANK YOU FOR PLAYING!
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
